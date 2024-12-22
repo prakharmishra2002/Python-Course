@@ -1,0 +1,15 @@
+Python Data Types-
+----------------------------------------------------------------
+1- Numeric  (i)- Integer(a = 50)
+            (ii)- Float(a = 50.5)
+            (iii)- Complex(a = 3+4j)
+
+2- Sequence (i)- List (a = [1,2,3])
+            (ii)- Tuple (a = (1,2,3))
+            (iii)- String (a = "Hello")
+
+3- Mapping  (i)- Dictionry (d = {1: 'Geeks', 2: 'For', 3: 'Geeks'})
+
+4- Boolean 
+
+5- Set(s1 = set("GeeksForGeeks"))
