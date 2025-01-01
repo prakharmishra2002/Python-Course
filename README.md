@@ -1,1 +1,1 @@
-# 🚀 Python Crash Course 🧠
+<h1 align = 'center' > 🚀 Python Crash Course 🧠 </h1>
